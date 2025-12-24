@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Bharti Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="center">About Me:</h3>
+<h3>About Me - </h3>
 📚STUDENT | B.TECH CSE'29<br>⚡Learning new skills
 
 <h3 align="left">Languages and Tools:</h3>
